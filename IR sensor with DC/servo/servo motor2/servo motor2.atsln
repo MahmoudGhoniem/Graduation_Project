@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "servo motor2", "servo motor2\servo motor2.cproj", "{90447923-50D8-4993-8A46-9C7CA1403776}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90447923-50D8-4993-8A46-9C7CA1403776}.Debug|AVR.ActiveCfg = Debug|AVR
+		{90447923-50D8-4993-8A46-9C7CA1403776}.Debug|AVR.Build.0 = Debug|AVR
+		{90447923-50D8-4993-8A46-9C7CA1403776}.Release|AVR.ActiveCfg = Release|AVR
+		{90447923-50D8-4993-8A46-9C7CA1403776}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

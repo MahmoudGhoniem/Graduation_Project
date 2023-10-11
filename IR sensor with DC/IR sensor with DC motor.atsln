@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "IR sensor with DC motor", "IR sensor with DC motor\IR sensor with DC motor.cproj", "{66677A17-3554-4202-A6B9-8FF0EBEC1FEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66677A17-3554-4202-A6B9-8FF0EBEC1FEE}.Debug|AVR.ActiveCfg = Debug|AVR
+		{66677A17-3554-4202-A6B9-8FF0EBEC1FEE}.Debug|AVR.Build.0 = Debug|AVR
+		{66677A17-3554-4202-A6B9-8FF0EBEC1FEE}.Release|AVR.ActiveCfg = Release|AVR
+		{66677A17-3554-4202-A6B9-8FF0EBEC1FEE}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
